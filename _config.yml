@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "Chengdu, China"
-title                    : "Homepage"
+title                    : "Yanglin's Homepage"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Yanglin Feng"
-  avatar           : my_photo.png"
+  avatar           : my_photo_2.png"
   bio              : "A PhD Student at Sichuan University"
   location         : "Chengdu, China"
   employer         :
