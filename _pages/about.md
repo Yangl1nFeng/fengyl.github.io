@@ -12,9 +12,9 @@ My name is Yanglin Feng (奉仰麟). I’m a Ph.D. student (since 2024) at the C
 
 My research interests mainly focus on multimodal learning and cross-domain learning. Recently, I’ve been conducting research related to 3D vision & language.
 
-- **Multimodal Learning**: Cross-modal retrieval with noisy labels/correspondence
-- **Cross-domain Learning**: Unsupervised domain adaptation and cross-domain retrieval
-- **3D Vision & Language**: Pointcloud-text matching and cross-scene object reasoning
+- *Multimodal Learning*: Cross-modal retrieval with noisy labels/correspondence
+- *Cross-domain Learning*: Unsupervised domain adaptation and cross-domain retrieval
+- *3D Vision & Language*: Pointcloud-text matching and cross-scene object reasoning
 
 🎇News
 ======
