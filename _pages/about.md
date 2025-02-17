@@ -1,4 +1,4 @@
----
+![my_photo](https://github.com/user-attachments/assets/ebad67d0-a64a-4f05-a25a-27b24674ed7c)---
 permalink: /
 title: ""
 excerpt: "About me"
@@ -16,7 +16,7 @@ My research interests mainly focus on multimodal learning and cross-domain learn
 - Cross-domain Learning: Unsupervised domain adaptation and cross-domain retrieval
 - 3D Vision & Language: Pointcloud-text matching and cross-scene object reasoning
 
-News
+🎇News
 ======
 - \[**Publications**\]: 2025.1.19, one paper was accepted by IEEE Transactions on Multimedia (TMM 2025). Thanks to all coauthors! ✌
 - \[**Publications**\]: 2024.12.10, one paper was accepted by AAAI Conference on Artificial Intelligence (AAAI 2025). Congrats to Ziniu and coauthors! 🎉
