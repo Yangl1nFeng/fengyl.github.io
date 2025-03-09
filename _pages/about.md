@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Greeting! My name is Yanglin Feng (奉仰麟). I’m a Ph.D. candidate (since the fall of 2024) at the College of Computer Science, Sichuan University, fortunately advised by Prof. [Dezhong Peng](https://cs.scu.edu.cn/info/1282/13563.htm) and Prof. [Peng Hu](https://penghu-cs.github.io/).
+Greetings! My name is Yanglin Feng (奉仰麟). I’m a Ph.D. candidate (since the fall of 2024) at the College of Computer Science, Sichuan University, fortunately advised by Prof. [Dezhong Peng](https://cs.scu.edu.cn/info/1282/13563.htm) and Prof. [Peng Hu](https://penghu-cs.github.io/).
 
 My research interests mainly focus on multimodal learning and cross-domain learning. Recently, I’ve been conducting research related to 3D vision & language.
 
