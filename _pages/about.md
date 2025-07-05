@@ -18,6 +18,7 @@ My research interests mainly focus on multimodal learning and cross-domain learn
 
 🎇News
 ======
+- \[**Publications**\]: 2025.7.5, one paper was accepted by ACM Multimedia (ACM MM 2025). Congrats to Ao and coauthors! 🎉🎉
 - \[**Publications**\]: 2025.1.19, one paper was accepted by IEEE Transactions on Multimedia (TMM 2025). Thanks to all coauthors! 🎉🎉
 - \[**Publications**\]: 2024.12.10, one paper was accepted by AAAI Conference on Artificial Intelligence (AAAI 2025). Congrats to Ziniu and coauthors! 🎉🎉
 - \[**Awards**\]: 2024.11.1, I received a Graduate Student National Scholarship! 🎉🎉
