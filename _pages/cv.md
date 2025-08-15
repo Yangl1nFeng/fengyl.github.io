@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,25 +9,21 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Educations and Experiences
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* 2024.09 – present   Ph.D., College of Computer Science, Sichuan University, Chengdu, China.  
+* 2022.09 – 2024.09   M.S., transferred to Ph.D., College of Computer Science, Sichuan University, Chengdu, China.
+* 2018.09 - 2022.06, Undergraduate, the College of Software Engineering, Sichuan University, Chengdu China. 
 
-Work experience
+
+Research Interests
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+- Multimodal Learning: Cross-modal retrieval with noisy labels/correspondence.
+- Cross-domain Learning: Unsupervised domain adaptation and cross-domain retrieval.
+- 3D Vision & Language: Pointcloud-text matching and cross-scene object reasoning.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+
+Honors and Awards
 ======
 * Skill 1
 * Skill 2
