@@ -31,6 +31,6 @@ redirect_from:
 🙋 Services
 ======
 * Conference Reviewer:
-  * AAAI 2026 ...
+  * AAAI 2026, ICLR 2026, CVPR 2026 ...
   * AAAI 2025, ICLR 2025, CVPR 2025, ICML 2025, ICCV 2025, NeurIPS 2025, PRCV 2025.
   * CVPR 2024, ECCV 2024, NeurIPS 2024, PRCV 2024.
