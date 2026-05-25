@@ -18,11 +18,11 @@ My research interests mainly focus on multimodal learning, cross-domain learning
 
 🎇News
 ======
-- \[**Publications**\]: 2025.9.18. One papers were accepted by the Forty-Third International Conference on Machine Learning (ICML 2026). It was accepted as Oral (accept rate=0.70%)! Thanks to all coauthors! 🎉🎉
+- \[**Publications**\]: 2025.9.18. One papers were accepted by the Forty-Third International Conference on Machine Learning (ICML 2026). Thanks to all coauthors! 🎉🎉
 - \[**Publications**\]: 2026.3.28, one paper was accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI 2026)! Thanks to all coauthors! 🎉🎉
 - \[**Awards**\]: 2026.1.9. Honored to win the Sichuan University Tecent Scholarship (Special Grade)! ✌️
 - \[**Awards**\]: 2025.12.15. Amazing! I am honored to have been selected for the Doctoral Program of the CAST Young Science and Technology Talent Cultivation Project. 🎉🎉
-- \[**Publications**\]: 2025.9.18. Amazing! Three papers were accepted by the Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS 2025). One paper was accepted as Oral (accept rate=0.36%)! Thanks to all coauthors! 🎉🎉
+- \[**Publications**\]: 2025.9.18. Amazing! Three papers were accepted by the Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS 2025). Thanks to all coauthors! 🎉🎉
 - \[**Publications**\]: 2025.7.5, one paper was accepted by ACM Multimedia (ACM MM 2025). Congrats to Ao and coauthors! 🎉🎉
 - \[**Publications**\]: 2025.1.19, one paper was accepted by IEEE Transactions on Multimedia (TMM 2025). Thanks to all coauthors! 🎉🎉
 - \[**Publications**\]: 2024.12.10, one paper was accepted by AAAI Conference on Artificial Intelligence (AAAI 2025). Congrats to Ziniu and coauthors! 🎉🎉
