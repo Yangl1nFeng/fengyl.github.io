@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! My name is Yanglin Feng (奉仰麟). I’m a Ph.D. student (since the fall of 2024) at the College of Computer Science, Sichuan University, fortunately advised by Prof. [Dezhong Peng](https://cs.scu.edu.cn/info/1282/13563.htm) and Prof. [Peng Hu](https://penghu-cs.github.io/).
+Hi! My name is Yanglin Feng (奉仰麟). I’m a Ph.D. student (since the fall of 2024) at the College of Computer Science, Sichuan University, fortunately advised by Prof. [Dezhong Peng](https://cs.scu.edu.cn/info/1282/13563.htm) and Prof. [Peng Hu](https://penghu-cs.github.io/). Currently, I work as a research intern at [Alibaba AAGI Lab](https://s.alibaba.com/cn/LargeModel/), led by Longtao Huang and advised by Ting Ma, where I conduct research on hallucination mitigation in MLLMs and participate in the Yuvion LLM project.
 
 My research interests mainly focus on multimodal learning, cross-domain learning, and 3D vision & language. Recently, I’ve been conducting research related to interactive learning and LLM-driven agent.
 
